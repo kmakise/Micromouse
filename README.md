@@ -13,11 +13,11 @@
 ### 整机
 ![整机](https://github.com/kerisu/Micromouse/blob/master/photo/mm.jpg)
 ### 路径规划
-![DFS](https://github.com/kerisu/Micromouse/tree/master/photo/dfs.jpg)
+![DFS](https://github.com/kerisu/Micromouse/blob/master/photo/dfs.jpg)
 ### 结构件机械图
-![3D](https://github.com/kerisu/Micromouse/tree/master/photo/3D.jpg)
-![PP](https://github.com/kerisu/Micromouse/tree/master/photo/pp.png)
+![3D](https://github.com/kerisu/Micromouse/blob/master/photo/3D.jpg)
+![PP](https://github.com/kerisu/Micromouse/blob/master/photo/pp.png)
 ### 调试平台
-![STM](https://github.com/kerisu/Micromouse/tree/master/photo/dbg.jpg)
+![STM](https://github.com/kerisu/Micromouse/blob/master/photo/dbg.jpg)
 ### 比赛现场
-![TJ](https://github.com/kerisu/Micromouse/tree/master/photo/tj.jpg)
+![TJ](https://github.com/kerisu/Micromouse/blob/master/photo/tj.jpg)
