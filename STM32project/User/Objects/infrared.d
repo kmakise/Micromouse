@@ -1,0 +1,16 @@
+.\objects\infrared.o: ..\Application\move_base\src\Infrared.c
+.\objects\infrared.o: ..\HardWare\infrared\infrared.h
+.\objects\infrared.o: ..\User\stm32f10x.h
+.\objects\infrared.o: ..\Core\core_cm3.h
+.\objects\infrared.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\infrared.o: ..\User\system_stm32f10x.h
+.\objects\infrared.o: ..\HardWare\ZLG7289\ZLG7289.h
+.\objects\infrared.o: ..\Core\drive.h
+.\objects\infrared.o: ..\Rcc\rcc.h
+.\objects\infrared.o: ..\HardWare\nvic\nvic.h
+.\objects\infrared.o: ..\HardWare\dian_ji\dian_ji.h
+.\objects\infrared.o: ..\HardWare\led_key\led.h
+.\objects\infrared.o: ..\HardWare\delay\delay.h
+.\objects\infrared.o: ..\Core\drive.h
+.\objects\infrared.o: ..\HardWare\USART\usart.h
+.\objects\infrared.o: ..\HardWare\Time\time.h

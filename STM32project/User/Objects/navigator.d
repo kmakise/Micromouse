@@ -1,0 +1,12 @@
+.\objects\navigator.o: ..\Application\navigation\src\navigator.c
+.\objects\navigator.o: ..\Application\navigation\inc\navigator.h
+.\objects\navigator.o: ..\Application\navigation\inc\odometer.h
+.\objects\navigator.o: ..\User\stm32f10x.h
+.\objects\navigator.o: ..\Core\core_cm3.h
+.\objects\navigator.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\navigator.o: ..\User\system_stm32f10x.h
+.\objects\navigator.o: ..\Application\move_base\inc\movectrl.h
+.\objects\navigator.o: ..\Application\navigation\inc\myPlanner.h
+.\objects\navigator.o: ..\Application\move_base\inc\attitude.h
+.\objects\navigator.o: ..\Application\process\inc\parameter.h
+.\objects\navigator.o: ..\Application\move_base\inc\InfraredCalc.h

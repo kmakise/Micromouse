@@ -1,0 +1,11 @@
+.\objects\comhandle.o: ..\Application\process\src\comHandle.c
+.\objects\comhandle.o: ..\Application\process\inc\comHandle.h
+.\objects\comhandle.o: ..\User\stm32f10x.h
+.\objects\comhandle.o: ..\Core\core_cm3.h
+.\objects\comhandle.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\comhandle.o: ..\User\system_stm32f10x.h
+.\objects\comhandle.o: ..\HardWare\USART\usart.h
+.\objects\comhandle.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\comhandle.o: ..\Application\navigation\inc\odometer.h
+.\objects\comhandle.o: ..\Application\navigation\inc\myPlanner.h
+.\objects\comhandle.o: ..\Application\process\inc\mapSaver.h

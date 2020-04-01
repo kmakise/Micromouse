@@ -1,0 +1,17 @@
+.\objects\main.o: main.c
+.\objects\main.o: ..\Core\drive.h
+.\objects\main.o: ..\User\stm32f10x.h
+.\objects\main.o: ..\Core\core_cm3.h
+.\objects\main.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: ..\User\system_stm32f10x.h
+.\objects\main.o: ..\Rcc\rcc.h
+.\objects\main.o: ..\HardWare\nvic\nvic.h
+.\objects\main.o: ..\HardWare\dian_ji\dian_ji.h
+.\objects\main.o: ..\HardWare\infrared\infrared.h
+.\objects\main.o: ..\HardWare\ZLG7289\ZLG7289.h
+.\objects\main.o: ..\HardWare\led_key\led.h
+.\objects\main.o: ..\HardWare\delay\delay.h
+.\objects\main.o: ..\Core\drive.h
+.\objects\main.o: ..\HardWare\USART\usart.h
+.\objects\main.o: ..\HardWare\Time\time.h
+.\objects\main.o: ..\Application\process\inc\process.h

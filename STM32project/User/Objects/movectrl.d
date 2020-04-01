@@ -1,0 +1,11 @@
+.\objects\movectrl.o: ..\Application\move_base\src\MoveCtrl.c
+.\objects\movectrl.o: ..\Application\move_base\inc\MOveCtrl.h
+.\objects\movectrl.o: ..\Application\move_base\inc\attitude.h
+.\objects\movectrl.o: ..\User\stm32f10x.h
+.\objects\movectrl.o: ..\Core\core_cm3.h
+.\objects\movectrl.o: C:\Keil_v5_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\movectrl.o: ..\User\system_stm32f10x.h
+.\objects\movectrl.o: ..\Application\move_base\inc\pidctrller.h
+.\objects\movectrl.o: ..\Application\navigation\inc\odometer.h
+.\objects\movectrl.o: ..\Application\process\inc\parameter.h
+.\objects\movectrl.o: ..\Application\move_base\inc\InfraredCalc.h
